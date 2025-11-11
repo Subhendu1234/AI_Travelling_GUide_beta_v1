@@ -1,0 +1,7 @@
+{
+  "name": "AI Travel & Media Toolkit",
+  "description": "An all-in-one creative travel guide app. Generate stunning images of destinations, get detailed travel info with search grounding, listen to an AI-generated audio guide, edit your photos with text prompts, and transcribe audio notes with your microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
